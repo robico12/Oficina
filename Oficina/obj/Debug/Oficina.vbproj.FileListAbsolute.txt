@@ -1,0 +1,15 @@
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.vbproj.AssemblyReference.cache
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.vbproj.SuggestedBindingRedirects.cache
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.Form1.resources
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.Resources.resources
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.vbproj.GenerateResource.cache
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.vbproj.CoreCompileInputs.cache
+C:\Users\robic\source\repos\Oficina\Oficina\bin\Debug\Oficina.exe.config
+C:\Users\robic\source\repos\Oficina\Oficina\bin\Debug\Oficina.exe
+C:\Users\robic\source\repos\Oficina\Oficina\bin\Debug\Oficina.pdb
+C:\Users\robic\source\repos\Oficina\Oficina\bin\Debug\Oficina.xml
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.exe
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.xml
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.pdb
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.F_DadosEmpresa.resources
+C:\Users\robic\source\repos\Oficina\Oficina\obj\Debug\Oficina.F_Funcionarios.resources
